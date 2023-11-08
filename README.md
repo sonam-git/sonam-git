@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [HSC webpage](https://dev-himalayan-sherpa-club-sonoma.pantheonsite.io/)
+- 🔭 I’m currently looking for job.
 
-- 🌱 I’m currently learning **coding from UC Berkely Extension**
+- 🌱 Recent Boot Camp Graduate from UC Berkely Extension**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonam-git](https://github.com/sonam-git)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://sonam-git.github.io/professional-portfolio/](https://sonam-git.github.io/professional-portfolio/)
 
-- ⚡ Fun fact **I don't know how to swim yet**
+- ⚡ Fun fact **I don't know yet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
