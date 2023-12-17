@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://sonam-git.github.io/professional-portfolio/](https://sonam-git.github.io/professional-portfolio/)
 
-- ⚡ Fun fact **I don't know yet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
