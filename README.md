@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for job.
 
-- 🌱 Recent Boot Camp Graduate from UC Berkely Extension**
+- 🌱 Full Stack Web Developer with an Associate Degree,and Boot Camp Graduate from UC Berkely Extension**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonam-git](https://github.com/sonam-git)
 
