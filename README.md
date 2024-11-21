@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently looking for job.
+- 🔭 I’m currently working on solo project Roster - Hub [https://github.com/sonam-git/Roster---Hub](https://github.com/sonam-git).
 
 - 🌱 Full Stack Web Developer with an Associate Degree,and Boot Camp Graduate from UC Berkely Extension**
 
