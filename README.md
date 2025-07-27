@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on solo project Roster - Hub [https://github.com/sonam-git/Roster---Hub](https://github.com/sonam-git).
+- 🔭 I’m currently working on solo project Roster - Hub [https://github.com/sonam-git/Roster-Hub-V2](https://github.com/sonam-git).
 
 - 🌱 Full Stack Web Developer with an Associate Degree,and Boot Camp Graduate from UC Berkely Extension**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sherpa.sjs@gmail.com**
 
-- 📄 Know about my experiences [https://sonam-git.github.io/SJ_React_Portfolio/](https://sonam-git.github.io/SJ_React_Portfolio/)
+- 📄 Know about my experiences [https://sonam-git.github.io/SJ_React_Portfolio/](https://sjsherpa.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
