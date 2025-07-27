@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sherpa.sjs@gmail.com**
 
-- 📄 Know about my experiences [https://sonam-git.github.io/SJ_React_Portfolio/](https://sjsherpa.vercel.app/)
+- 📄 Know about my experiences [https://sjsherpa.vercel.app/](https://sjsherpa.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
